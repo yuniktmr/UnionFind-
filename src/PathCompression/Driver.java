@@ -8,5 +8,5 @@ package PathCompression;
  *
  */
 public class Driver {
-
+	//fill it as required
 }
